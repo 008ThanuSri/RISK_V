@@ -1,4 +1,4 @@
-# RISK_V
+# RISC_V
 A simple RISC-V CPU (Instruction Fetch &amp; Decode) implemented in Verilog and tested in Xilinx Vivado.  It features a Program Counter (PC), Instruction Memory (ROM), and an Instruction Decoder.
 This is a **basic RISC-V CPU** that implements **instruction fetching and decoding** in **Verilog**, and is tested in **Xilinx Vivado**.
 
